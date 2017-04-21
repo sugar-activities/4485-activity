@@ -1,0 +1,7 @@
+[Activity]
+name = Derecho_a_Transitar
+activity_version = 3
+bundle_id = org.laptop.Derecho_a_Transitar
+icon = Juego
+show_launcher = yes
+exec = sugar-activity Derecho_a_Transitar.Derecho_a_Transitar
